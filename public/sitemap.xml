@@ -1,117 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/introduction.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics/aws-infrastructure.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-1-networking-foundations/network-definition.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-1-networking-foundations/osi-model.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics/whats-a-vpc.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics/privatepublic.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics/security.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-1-networking-foundations/subnetting.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics/load-balancing.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-1-networking-foundations/routing.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-1-networking-foundations/dnsdhcp.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics/lab.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-1-networking-foundations.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-1-networking-foundations/homework.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-3-aws-advanced-networking/hybrid-cloud.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics/route53.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-3-aws-advanced-networking/vpc-peering.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-3-aws-advanced-networking/lab.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-2-aws-networking-basics.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-3-aws-advanced-networking/transit-gateway.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-3-aws-advanced-networking/vpc-endpoints.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/day-3-aws-advanced-networking.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/lab_diagram.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/further_reading.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags.html</loc>
   </url>
-  
 </urlset>
