@@ -17,6 +17,13 @@ In this section, we will talk about traditional networking in order to understan
 
 - Routing
 
+- Network Address Trasnlation (NAT)
+
 - DNS / DHCP
 
 - How does a computer gets an IP address?
+
+- Additional in depth content
+
+- Homework
+
