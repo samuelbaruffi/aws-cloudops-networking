@@ -13,9 +13,4 @@ In this workshop, we will go through the basics of networking in both traditiona
 
 Date | Time
 --- | ---
-01/03/2021 | 9:00 – 11:00am ET 
-02/03/2021 | 9:00 – 11:00am ET 
-04/03/2021 | 9:00 – 11:00am ET 
-08/03/2021 | 9:00 – 11:00am ET
-09/03/2021 | 9:00 – 11:00am ET
-11/03/2021 | 9:00 – 11:00am ET
+TO BE ANNOUNCED

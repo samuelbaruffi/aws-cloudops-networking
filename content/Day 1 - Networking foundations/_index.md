@@ -18,3 +18,5 @@ In this section, we will talk about traditional networking in order to understan
 - Routing
 
 - DNS / DHCP
+
+- How does a computer gets an IP address?

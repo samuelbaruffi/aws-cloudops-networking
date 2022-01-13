@@ -88,6 +88,10 @@ In other cases where a client would require other services such as a FTP server 
 - Option 6 = DNS servers
 - Option 51 = lease duration time
 
+***Demonstration of a router giving IPs to multiple devices through DHCP:***
+
+<img src='/images/dhcp_example_router.png' width='600px'>
+
 
 
 

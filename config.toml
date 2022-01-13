@@ -47,6 +47,13 @@ url = "https://www.linkedin.com/in/adrianna-kurzela-26b88210b/"
 weight = 2
 Email = "akurzela@amazon.lu"
 
+[[menu.shortcuts]]
+name = "<i class='fab fa-linkedin fa-lg'></i> Samuel Baruffi"
+identifier = "li3"
+url = "https://www.linkedin.com/in/samuelbaruffi/"
+weight = 2
+Email = "sbaruffi@amazon.com"
+
 
 # Deploy to S3 + CloudFront
 [deployment]
