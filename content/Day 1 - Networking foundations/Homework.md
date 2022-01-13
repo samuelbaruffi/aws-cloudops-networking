@@ -1,24 +1,44 @@
 ---
-title: "Additional Content"
+title: "Homework"
 draft: false
-weight: 59
+weight: 60
 pre: 
 ---
 
 
-**Additional Content**
+**Subnetting Exercice**
 ---
 
-Below are some free (or already available to you) content to dive deep into basics of compute networking:
+- 192.168.0.5/16
 
-**General content:**
-- [A Cloud Guru - Networking Foundations Course](https://acloudguru.com/course/networking-foundations?utm_campaign=11244863417&utm_source=google&utm_medium=cpc&utm_content=469352928666&utm_term=_&adgroupid=115625160932&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpcIHsDEvchdh3RfnYVCzyaWHgSLhJDCzMUFUfZ6nDd9WSFd_vB81f8aAjS1EALw_wcB)
-- [edX NYU - Introduction to Networking](https://www.edx.org/course/introduction-to-networking)- 
-- [What is Computer Networking? Basics, Uses & Components](https://www.guru99.com/basic-computer-network.html)
-- [Compute Networking Interview Questions 1](https://www.educba.com/computer-network-interview-questions/)
-- [Compute Networking Interview Questions 2](https://www.geeksforgeeks.org/top-50-computer-networking-interview-questions-and-answers/)
+<p>What is the binary address of 192.168.0.5?<br>
+What is the network ID?<br>
+What is the subnet mask?<br>
+What is the gateway router IP address?<br>
+How many IP addresses in this network?</p>
 
-**More specific content:**
-- [TCP/IP Model](https://www.guru99.com/tcp-ip-model.html)
-- [TCP 3-Way Handshake Process](https://www.geeksforgeeks.org/tcp-3-way-handshake-process/)
-- [TCP vs UDP](https://www.guru99.com/tcp-vs-udp-understanding-the-difference.html)
+
+- 172.31.10.10/25
+
+<p>What is the binary address of 172.31.10.10?<br>
+What is the network ID?<br>
+What is the subnet mask?<br>
+What is the gateway router IP address?<br>
+How many IP addresses in this network?</p>
+
+**Real Interview Question**
+---
+
+**What happens when you type a URL into your browser?**
+
+Try to think of all the network concepts we've learned so far and put together a list of step that you think your computer will need to do.
+After that, you can read this very [detailed AWS blogpost](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/) explaining in detail. This might be a real question you get on your interview in the future.
+
+
+
+
+
+
+
+
+
